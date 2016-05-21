@@ -1,0 +1,5 @@
+30 mechaniczny 
+domyslny_model domyslny_kolor 0 50 100
+80 7 
+15 
+5 Tatry 0 
